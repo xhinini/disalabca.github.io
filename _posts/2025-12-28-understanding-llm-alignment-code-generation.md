@@ -1,5 +1,6 @@
 ---
 layout: post
+author: sanjeepan sivapiran
 title: "Understanding LLM Alignment for Code Generation: A Practical Guide"
 date: 2025-12-28 10:00:00
 description: A practical guide to understanding key concepts in LLM alignment for code generation tasks, including alignment pathways and functional vs non-functional requirements
