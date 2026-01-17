@@ -6,7 +6,7 @@ subtitle: PhD Student, University of Calgary
 
 profile:
   align: right
-  image: https://afif.me/assets/img/prof_pic-800.webp
+  image: people/afif_dp.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>520B ICT Building</p>

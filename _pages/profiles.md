@@ -14,7 +14,7 @@ profiles:
     content: people/mostafij.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: https://afif.me/assets/img/prof_pic-800.webp
+    image: people/afif_dp.jpeg
     content: people/afif.md
     image_circular: false # crops the image to make it circular
   - align: left
