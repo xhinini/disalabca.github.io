@@ -6,7 +6,7 @@ subtitle: PhD Student, York University
 
 profile:
   align: right
-  image: people/mostafij.jpeg
+  image: people/mostafij_dp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>EECS</p>
