@@ -26,5 +26,9 @@ profiles:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
     #   <p>Office 555</p>
+  - align: right
+    image: people/sanjeepan_dp.jpeg
+    content: people/sanjeepan.md
+    image_circular: false # crops the image to make it circular
 
 ---
