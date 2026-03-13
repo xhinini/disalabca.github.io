@@ -30,5 +30,8 @@ profiles:
     image: people/sanjeepan_dp.jpeg
     content: people/sanjeepan.md
     image_circular: false # crops the image to make it circular
-
+  - align: right
+    image: people/mahmuda.jpg
+    content: people/mahmuda.md
+    image_circular: false # crops the image to make it circular
 ---
