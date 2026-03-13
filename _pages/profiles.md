@@ -17,6 +17,10 @@ profiles:
     image: people/afif_dp.jpeg
     content: people/afif.md
     image_circular: false # crops the image to make it circular
+    - align: right
+    image: people/haoran_dp.jpeg
+    content: people/haoran.md
+    image_circular: false # crops the image to make it circular
   # - align: left
   #   image: people/default_people.jpg
   #   content: people/sayan.md
